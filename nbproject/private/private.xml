@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/app/Http/Controllers/InicioController.php</file>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/resources/views/Inicio/index.blade.php</file>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/app/User.php</file>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/app/Http/routes.php</file>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/database/migrations/2017_08_04_145942_criar_tabela_Usuarios.php</file>
+            <file>file:/A:/onedrive/projetos/php/cf/cf_laravel/.env</file>
+        </group>
+    </open-files>
+</project-private>
